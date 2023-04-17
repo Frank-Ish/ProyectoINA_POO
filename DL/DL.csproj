@@ -50,8 +50,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
     <Compile Include="ClientesDL.cs" />
+    <Compile Include="Interface\InterfaceGenericDL.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ProyectoINAModel.Context.cs">
       <AutoGen>True</AutoGen>
@@ -79,9 +79,9 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\DTO\DTO.csproj">
-      <Project>{e382e062-83f1-4efd-be1a-1150319de275}</Project>
-      <Name>DTO</Name>
+    <ProjectReference Include="..\Entities\Entities.csproj">
+      <Project>{e2e1bb11-bb90-4750-ab41-30f506a41392}</Project>
+      <Name>Entities</Name>
     </ProjectReference>
     <ProjectReference Include="..\Utilities\Utilities.csproj">
       <Project>{81b36385-5d1e-4b11-ac6e-2a3c2e71c644}</Project>

@@ -50,6 +50,7 @@
             this.lstVClientes.TabIndex = 0;
             this.lstVClientes.UseCompatibleStateImageBehavior = false;
             this.lstVClientes.View = System.Windows.Forms.View.Details;
+            this.lstVClientes.SelectedIndexChanged += new System.EventHandler(this.lstVClientes_SelectedIndexChanged);
             // 
             // colCedula
             // 

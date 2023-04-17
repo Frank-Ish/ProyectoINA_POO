@@ -1,4 +1,5 @@
-﻿using System;
+﻿using BL;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -12,12 +13,18 @@ namespace ProyectoINAForms
 {
     public partial class FrmListaClientes : Form
     {
+        ClientesBL cli = new ClientesBL();
         public FrmListaClientes()
         {
             InitializeComponent();
         }
 
         private void FrmListaClientes_Load(object sender, EventArgs e)
+        {
+            var lista = cli.obtenerTodos();
+        }
+
+        private void lstVClientes_SelectedIndexChanged(object sender, EventArgs e)
         {
 
         }

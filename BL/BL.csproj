@@ -41,8 +41,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
     <Compile Include="ClientesBL.cs" />
+    <Compile Include="Interface\IGenericBL.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -50,14 +50,19 @@
       <Project>{f7750d34-0323-4127-ab7e-b7e170fd62b8}</Project>
       <Name>DL</Name>
     </ProjectReference>
-    <ProjectReference Include="..\DTO\DTO.csproj">
-      <Project>{e382e062-83f1-4efd-be1a-1150319de275}</Project>
-      <Name>DTO</Name>
+    <ProjectReference Include="..\Entities\Entities.csproj">
+      <Project>{e2e1bb11-bb90-4750-ab41-30f506a41392}</Project>
+      <Name>Entities</Name>
     </ProjectReference>
     <ProjectReference Include="..\Utilities\Utilities.csproj">
       <Project>{81b36385-5d1e-4b11-ac6e-2a3c2e71c644}</Project>
       <Name>Utilities</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="EntityFramework">
+      <Version>6.2.0</Version>
+    </PackageReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

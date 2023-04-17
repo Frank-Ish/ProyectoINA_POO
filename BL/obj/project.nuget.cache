@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MqrzbrXI8ZF9DjxSoklY0UC2LEtU42MbvZfbrbiIswdIsAAUJtEP+cyaXK5Ux8DueuaqEWFPucCmg2YKleMXRg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\harry\\OneDrive\\Documents\\ina\\POO\\ProyectoINA_POO\\BL\\BL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\harry\\.nuget\\packages\\entityframework\\6.2.0\\entityframework.6.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}

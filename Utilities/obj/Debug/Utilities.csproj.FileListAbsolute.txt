@@ -1,0 +1,6 @@
+C:\Users\harry\OneDrive\Documents\ina\POO\ProyectoINA_POO\Utilities\bin\Debug\Utilities.dll
+C:\Users\harry\OneDrive\Documents\ina\POO\ProyectoINA_POO\Utilities\bin\Debug\Utilities.pdb
+C:\Users\harry\OneDrive\Documents\ina\POO\ProyectoINA_POO\Utilities\obj\Debug\Utilities.csproj.AssemblyReference.cache
+C:\Users\harry\OneDrive\Documents\ina\POO\ProyectoINA_POO\Utilities\obj\Debug\Utilities.csproj.CoreCompileInputs.cache
+C:\Users\harry\OneDrive\Documents\ina\POO\ProyectoINA_POO\Utilities\obj\Debug\Utilities.dll
+C:\Users\harry\OneDrive\Documents\ina\POO\ProyectoINA_POO\Utilities\obj\Debug\Utilities.pdb
