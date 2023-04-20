@@ -19,7 +19,7 @@ namespace DL
         public int descMax { get; set; }
         public byte[] foto { get; set; }
     
-        public virtual tbTipoClientes tbTipoClientes { get; set; }
         public virtual tbPersona tbPersona { get; set; }
+        public virtual tbTipoClientes tbTipoClientes { get; set; }
     }
 }

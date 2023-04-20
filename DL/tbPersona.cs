@@ -14,6 +14,12 @@ namespace DL
     
     public partial class tbPersona
     {
+        [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2214:DoNotCallOverridableMethodsInConstructors")]
+        public tbPersona()
+        {
+            this.tbUsuarios = new HashSet<tbUsuarios>();
+        }
+    
         public string cedula { get; set; }
         public string nombre { get; set; }
         public string apellido1 { get; set; }
@@ -22,5 +28,7 @@ namespace DL
         public System.DateTime fechaNac { get; set; }
     
         public virtual tbClientes tbClientes { get; set; }
+        [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
+        public virtual ICollection<tbUsuarios> tbUsuarios { get; set; }
     }
 }

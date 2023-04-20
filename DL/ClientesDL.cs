@@ -61,7 +61,7 @@ namespace DL
             }
         }
 
-        public List<tbClientes> obtenerDatos()
+        public List<tbClientes> obtenerTodos()
         {
             try
             {

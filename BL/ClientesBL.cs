@@ -5,6 +5,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Utilities;
 
 namespace BL
 {
@@ -18,7 +19,19 @@ namespace BL
 
         public tbClientes guardar(tbClientes entity)
         {
-            throw new NotImplementedException();
+            //reglas de negocio
+            //Validar si existe el cliente
+            var cliente = obtenerPorID(entity);
+
+            if(cliente != null)
+            {
+                //error
+                throw new EntityExistDBException("Clientes");
+
+            } 
+
+            //guardar dl
+            return dlClientes.guardar(entity);
         }
 
         public bool modificar(tbClientes entity)
@@ -28,12 +41,12 @@ namespace BL
 
         public tbClientes obtenerPorID(tbClientes entity)
         {
-            throw new NotImplementedException();
+            return dlClientes.obtenerPorID(entity);
         }
 
         public List<tbClientes> obtenerTodos()
         {
-            return dlClientes.obtenerDatos();
+            return dlClientes.obtenerTodos();
         }
     }
 }

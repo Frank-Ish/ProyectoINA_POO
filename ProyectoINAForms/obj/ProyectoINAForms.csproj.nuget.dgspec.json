@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\harry\\OneDrive\\Documents\\ina\\POO\\ProyectoINA_POO\\ProyectoINAForms\\ProyectoINAForms.csproj": {}
+    "C:\\Users\\Ish\\Desktop\\INA\\repositorioINA2022\\POO\\PyectoINA_POO\\ProyectoINA_POO\\ProyectoINAForms\\ProyectoINAForms.csproj": {}
   },
   "projects": {
-    "C:\\Users\\harry\\OneDrive\\Documents\\ina\\POO\\ProyectoINA_POO\\BL\\BL.csproj": {
+    "C:\\Users\\Ish\\Desktop\\INA\\repositorioINA2022\\POO\\PyectoINA_POO\\ProyectoINA_POO\\BL\\BL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\harry\\OneDrive\\Documents\\ina\\POO\\ProyectoINA_POO\\BL\\BL.csproj",
+        "projectUniqueName": "C:\\Users\\Ish\\Desktop\\INA\\repositorioINA2022\\POO\\PyectoINA_POO\\ProyectoINA_POO\\BL\\BL.csproj",
         "projectName": "BL",
-        "projectPath": "C:\\Users\\harry\\OneDrive\\Documents\\ina\\POO\\ProyectoINA_POO\\BL\\BL.csproj",
-        "packagesPath": "C:\\Users\\harry\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\harry\\OneDrive\\Documents\\ina\\POO\\ProyectoINA_POO\\BL\\obj\\",
+        "projectPath": "C:\\Users\\Ish\\Desktop\\INA\\repositorioINA2022\\POO\\PyectoINA_POO\\ProyectoINA_POO\\BL\\BL.csproj",
+        "packagesPath": "C:\\Users\\Ish\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ish\\Desktop\\INA\\repositorioINA2022\\POO\\PyectoINA_POO\\ProyectoINA_POO\\BL\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\harry\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Ish\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -32,14 +32,14 @@
         "frameworks": {
           "net48": {
             "projectReferences": {
-              "C:\\Users\\harry\\OneDrive\\Documents\\ina\\POO\\ProyectoINA_POO\\DL\\DL.csproj": {
-                "projectPath": "C:\\Users\\harry\\OneDrive\\Documents\\ina\\POO\\ProyectoINA_POO\\DL\\DL.csproj"
+              "C:\\Users\\Ish\\Desktop\\INA\\repositorioINA2022\\POO\\PyectoINA_POO\\ProyectoINA_POO\\DL\\DL.csproj": {
+                "projectPath": "C:\\Users\\Ish\\Desktop\\INA\\repositorioINA2022\\POO\\PyectoINA_POO\\ProyectoINA_POO\\DL\\DL.csproj"
               },
-              "C:\\Users\\harry\\OneDrive\\Documents\\ina\\POO\\ProyectoINA_POO\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\harry\\OneDrive\\Documents\\ina\\POO\\ProyectoINA_POO\\Entities\\Entities.csproj"
+              "C:\\Users\\Ish\\Desktop\\INA\\repositorioINA2022\\POO\\PyectoINA_POO\\ProyectoINA_POO\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\Ish\\Desktop\\INA\\repositorioINA2022\\POO\\PyectoINA_POO\\ProyectoINA_POO\\Entities\\Entities.csproj"
               },
-              "C:\\Users\\harry\\OneDrive\\Documents\\ina\\POO\\ProyectoINA_POO\\Utilities\\Utilities.csproj": {
-                "projectPath": "C:\\Users\\harry\\OneDrive\\Documents\\ina\\POO\\ProyectoINA_POO\\Utilities\\Utilities.csproj"
+              "C:\\Users\\Ish\\Desktop\\INA\\repositorioINA2022\\POO\\PyectoINA_POO\\ProyectoINA_POO\\Utilities\\Utilities.csproj": {
+                "projectPath": "C:\\Users\\Ish\\Desktop\\INA\\repositorioINA2022\\POO\\PyectoINA_POO\\ProyectoINA_POO\\Utilities\\Utilities.csproj"
               }
             }
           }
@@ -67,19 +67,19 @@
         }
       }
     },
-    "C:\\Users\\harry\\OneDrive\\Documents\\ina\\POO\\ProyectoINA_POO\\DL\\DL.csproj": {
+    "C:\\Users\\Ish\\Desktop\\INA\\repositorioINA2022\\POO\\PyectoINA_POO\\ProyectoINA_POO\\DL\\DL.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\harry\\OneDrive\\Documents\\ina\\POO\\ProyectoINA_POO\\DL\\DL.csproj",
+        "projectUniqueName": "C:\\Users\\Ish\\Desktop\\INA\\repositorioINA2022\\POO\\PyectoINA_POO\\ProyectoINA_POO\\DL\\DL.csproj",
         "projectName": "DL",
-        "projectPath": "C:\\Users\\harry\\OneDrive\\Documents\\ina\\POO\\ProyectoINA_POO\\DL\\DL.csproj",
+        "projectPath": "C:\\Users\\Ish\\Desktop\\INA\\repositorioINA2022\\POO\\PyectoINA_POO\\ProyectoINA_POO\\DL\\DL.csproj",
         "frameworks": {
           "net48": {
             "projectReferences": {
-              "C:\\Users\\harry\\OneDrive\\Documents\\ina\\POO\\ProyectoINA_POO\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\harry\\OneDrive\\Documents\\ina\\POO\\ProyectoINA_POO\\Entities\\Entities.csproj"
+              "C:\\Users\\Ish\\Desktop\\INA\\repositorioINA2022\\POO\\PyectoINA_POO\\ProyectoINA_POO\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\Ish\\Desktop\\INA\\repositorioINA2022\\POO\\PyectoINA_POO\\ProyectoINA_POO\\Entities\\Entities.csproj"
               },
-              "C:\\Users\\harry\\OneDrive\\Documents\\ina\\POO\\ProyectoINA_POO\\Utilities\\Utilities.csproj": {
-                "projectPath": "C:\\Users\\harry\\OneDrive\\Documents\\ina\\POO\\ProyectoINA_POO\\Utilities\\Utilities.csproj"
+              "C:\\Users\\Ish\\Desktop\\INA\\repositorioINA2022\\POO\\PyectoINA_POO\\ProyectoINA_POO\\Utilities\\Utilities.csproj": {
+                "projectPath": "C:\\Users\\Ish\\Desktop\\INA\\repositorioINA2022\\POO\\PyectoINA_POO\\ProyectoINA_POO\\Utilities\\Utilities.csproj"
               }
             }
           }
@@ -89,21 +89,21 @@
         "net48": {}
       }
     },
-    "C:\\Users\\harry\\OneDrive\\Documents\\ina\\POO\\ProyectoINA_POO\\Entities\\Entities.csproj": {
+    "C:\\Users\\Ish\\Desktop\\INA\\repositorioINA2022\\POO\\PyectoINA_POO\\ProyectoINA_POO\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\harry\\OneDrive\\Documents\\ina\\POO\\ProyectoINA_POO\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\Ish\\Desktop\\INA\\repositorioINA2022\\POO\\PyectoINA_POO\\ProyectoINA_POO\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\harry\\OneDrive\\Documents\\ina\\POO\\ProyectoINA_POO\\Entities\\Entities.csproj",
-        "packagesPath": "C:\\Users\\harry\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\harry\\OneDrive\\Documents\\ina\\POO\\ProyectoINA_POO\\Entities\\obj\\",
+        "projectPath": "C:\\Users\\Ish\\Desktop\\INA\\repositorioINA2022\\POO\\PyectoINA_POO\\ProyectoINA_POO\\Entities\\Entities.csproj",
+        "packagesPath": "C:\\Users\\Ish\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ish\\Desktop\\INA\\repositorioINA2022\\POO\\PyectoINA_POO\\ProyectoINA_POO\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\harry\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Ish\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -142,21 +142,21 @@
         }
       }
     },
-    "C:\\Users\\harry\\OneDrive\\Documents\\ina\\POO\\ProyectoINA_POO\\ProyectoINAForms\\ProyectoINAForms.csproj": {
+    "C:\\Users\\Ish\\Desktop\\INA\\repositorioINA2022\\POO\\PyectoINA_POO\\ProyectoINA_POO\\ProyectoINAForms\\ProyectoINAForms.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\harry\\OneDrive\\Documents\\ina\\POO\\ProyectoINA_POO\\ProyectoINAForms\\ProyectoINAForms.csproj",
+        "projectUniqueName": "C:\\Users\\Ish\\Desktop\\INA\\repositorioINA2022\\POO\\PyectoINA_POO\\ProyectoINA_POO\\ProyectoINAForms\\ProyectoINAForms.csproj",
         "projectName": "ProyectoINAForms",
-        "projectPath": "C:\\Users\\harry\\OneDrive\\Documents\\ina\\POO\\ProyectoINA_POO\\ProyectoINAForms\\ProyectoINAForms.csproj",
-        "packagesPath": "C:\\Users\\harry\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\harry\\OneDrive\\Documents\\ina\\POO\\ProyectoINA_POO\\ProyectoINAForms\\obj\\",
+        "projectPath": "C:\\Users\\Ish\\Desktop\\INA\\repositorioINA2022\\POO\\PyectoINA_POO\\ProyectoINA_POO\\ProyectoINAForms\\ProyectoINAForms.csproj",
+        "packagesPath": "C:\\Users\\Ish\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ish\\Desktop\\INA\\repositorioINA2022\\POO\\PyectoINA_POO\\ProyectoINA_POO\\ProyectoINAForms\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\harry\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Ish\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -170,11 +170,17 @@
         "frameworks": {
           "net48": {
             "projectReferences": {
-              "C:\\Users\\harry\\OneDrive\\Documents\\ina\\POO\\ProyectoINA_POO\\BL\\BL.csproj": {
-                "projectPath": "C:\\Users\\harry\\OneDrive\\Documents\\ina\\POO\\ProyectoINA_POO\\BL\\BL.csproj"
+              "C:\\Users\\Ish\\Desktop\\INA\\repositorioINA2022\\POO\\PyectoINA_POO\\ProyectoINA_POO\\BL\\BL.csproj": {
+                "projectPath": "C:\\Users\\Ish\\Desktop\\INA\\repositorioINA2022\\POO\\PyectoINA_POO\\ProyectoINA_POO\\BL\\BL.csproj"
               },
-              "C:\\Users\\harry\\OneDrive\\Documents\\ina\\POO\\ProyectoINA_POO\\Utilities\\Utilities.csproj": {
-                "projectPath": "C:\\Users\\harry\\OneDrive\\Documents\\ina\\POO\\ProyectoINA_POO\\Utilities\\Utilities.csproj"
+              "C:\\Users\\Ish\\Desktop\\INA\\repositorioINA2022\\POO\\PyectoINA_POO\\ProyectoINA_POO\\DL\\DL.csproj": {
+                "projectPath": "C:\\Users\\Ish\\Desktop\\INA\\repositorioINA2022\\POO\\PyectoINA_POO\\ProyectoINA_POO\\DL\\DL.csproj"
+              },
+              "C:\\Users\\Ish\\Desktop\\INA\\repositorioINA2022\\POO\\PyectoINA_POO\\ProyectoINA_POO\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\Ish\\Desktop\\INA\\repositorioINA2022\\POO\\PyectoINA_POO\\ProyectoINA_POO\\Entities\\Entities.csproj"
+              },
+              "C:\\Users\\Ish\\Desktop\\INA\\repositorioINA2022\\POO\\PyectoINA_POO\\ProyectoINA_POO\\Utilities\\Utilities.csproj": {
+                "projectPath": "C:\\Users\\Ish\\Desktop\\INA\\repositorioINA2022\\POO\\PyectoINA_POO\\ProyectoINA_POO\\Utilities\\Utilities.csproj"
               }
             }
           }
@@ -202,11 +208,11 @@
         }
       }
     },
-    "C:\\Users\\harry\\OneDrive\\Documents\\ina\\POO\\ProyectoINA_POO\\Utilities\\Utilities.csproj": {
+    "C:\\Users\\Ish\\Desktop\\INA\\repositorioINA2022\\POO\\PyectoINA_POO\\ProyectoINA_POO\\Utilities\\Utilities.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\harry\\OneDrive\\Documents\\ina\\POO\\ProyectoINA_POO\\Utilities\\Utilities.csproj",
+        "projectUniqueName": "C:\\Users\\Ish\\Desktop\\INA\\repositorioINA2022\\POO\\PyectoINA_POO\\ProyectoINA_POO\\Utilities\\Utilities.csproj",
         "projectName": "Utilities",
-        "projectPath": "C:\\Users\\harry\\OneDrive\\Documents\\ina\\POO\\ProyectoINA_POO\\Utilities\\Utilities.csproj",
+        "projectPath": "C:\\Users\\Ish\\Desktop\\INA\\repositorioINA2022\\POO\\PyectoINA_POO\\ProyectoINA_POO\\Utilities\\Utilities.csproj",
         "frameworks": {
           "net48": {
             "projectReferences": {}

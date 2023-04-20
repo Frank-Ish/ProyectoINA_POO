@@ -4,3 +4,9 @@ C:\Users\harry\OneDrive\Documents\ina\POO\ProyectoINA_POO\Utilities\obj\Debug\Ut
 C:\Users\harry\OneDrive\Documents\ina\POO\ProyectoINA_POO\Utilities\obj\Debug\Utilities.csproj.CoreCompileInputs.cache
 C:\Users\harry\OneDrive\Documents\ina\POO\ProyectoINA_POO\Utilities\obj\Debug\Utilities.dll
 C:\Users\harry\OneDrive\Documents\ina\POO\ProyectoINA_POO\Utilities\obj\Debug\Utilities.pdb
+C:\Users\Ish\Desktop\INA\repositorioINA2022\POO\PyectoINA_POO\ProyectoINA_POO\Utilities\bin\Debug\Utilities.dll
+C:\Users\Ish\Desktop\INA\repositorioINA2022\POO\PyectoINA_POO\ProyectoINA_POO\Utilities\bin\Debug\Utilities.pdb
+C:\Users\Ish\Desktop\INA\repositorioINA2022\POO\PyectoINA_POO\ProyectoINA_POO\Utilities\obj\Debug\Utilities.csproj.AssemblyReference.cache
+C:\Users\Ish\Desktop\INA\repositorioINA2022\POO\PyectoINA_POO\ProyectoINA_POO\Utilities\obj\Debug\Utilities.csproj.CoreCompileInputs.cache
+C:\Users\Ish\Desktop\INA\repositorioINA2022\POO\PyectoINA_POO\ProyectoINA_POO\Utilities\obj\Debug\Utilities.dll
+C:\Users\Ish\Desktop\INA\repositorioINA2022\POO\PyectoINA_POO\ProyectoINA_POO\Utilities\obj\Debug\Utilities.pdb

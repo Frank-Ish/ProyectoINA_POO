@@ -74,9 +74,17 @@
     <Compile Include="tbPersona.cs">
       <DependentUpon>ProyectoINAModel.tt</DependentUpon>
     </Compile>
+    <Compile Include="tbRoles.cs">
+      <DependentUpon>ProyectoINAModel.tt</DependentUpon>
+    </Compile>
     <Compile Include="tbTipoClientes.cs">
       <DependentUpon>ProyectoINAModel.tt</DependentUpon>
     </Compile>
+    <Compile Include="tbUsuarios.cs">
+      <DependentUpon>ProyectoINAModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="TipoClientesDL.cs" />
+    <Compile Include="UsuariosDL.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Entities\Entities.csproj">

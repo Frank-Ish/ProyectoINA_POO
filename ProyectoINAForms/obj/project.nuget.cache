@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "hG/CLsOcJziHEuzjV/L4K5BBqdgqc8Iv3wSZz/4IuVlwh5oWBQ0OA+7xTUU7k7/LQZYfe7ta3w8MgbRN+P1cjw==",
+  "dgSpecHash": "V6serfZ99zcmfjtnkWZfL66oI4Ue5i8zP1WRlNgEKfX31bjJVv7izlFUSx9WpaC2VH5zR+Mp+UudOO8dbQCsaA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\harry\\OneDrive\\Documents\\ina\\POO\\ProyectoINA_POO\\ProyectoINAForms\\ProyectoINAForms.csproj",
+  "projectFilePath": "C:\\Users\\Ish\\Desktop\\INA\\repositorioINA2022\\POO\\PyectoINA_POO\\ProyectoINA_POO\\ProyectoINAForms\\ProyectoINAForms.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\harry\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512"
+    "C:\\Users\\Ish\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512"
   ],
   "logs": []
 }

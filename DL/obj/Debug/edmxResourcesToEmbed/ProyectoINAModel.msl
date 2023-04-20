@@ -1,36 +1,4 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
-  <EntityContainerMapping StorageEntityContainer="dbProyectoINAModelStoreContainer" CdmEntityContainer="dbProyectoINAEntities">
-    <EntitySetMapping Name="tbClientes">
-      <EntityTypeMapping TypeName="dbProyectoINAModel.tbClientes">
-        <MappingFragment StoreEntitySet="tbClientes">
-          <ScalarProperty Name="cedula" ColumnName="cedula" />
-          <ScalarProperty Name="tipoCliente" ColumnName="tipoCliente" />
-          <ScalarProperty Name="descMax" ColumnName="descMax" />
-          <ScalarProperty Name="foto" ColumnName="foto" />
-        </MappingFragment>
-      </EntityTypeMapping>
-    </EntitySetMapping>
-    <EntitySetMapping Name="tbPersona">
-      <EntityTypeMapping TypeName="dbProyectoINAModel.tbPersona">
-        <MappingFragment StoreEntitySet="tbPersona">
-          <ScalarProperty Name="cedula" ColumnName="cedula" />
-          <ScalarProperty Name="nombre" ColumnName="nombre" />
-          <ScalarProperty Name="apellido1" ColumnName="apellido1" />
-          <ScalarProperty Name="apellido2" ColumnName="apellido2" />
-          <ScalarProperty Name="genero" ColumnName="genero" />
-          <ScalarProperty Name="fechaNac" ColumnName="fechaNac" />
-        </MappingFragment>
-      </EntityTypeMapping>
-    </EntitySetMapping>
-    <EntitySetMapping Name="tbTipoClientes">
-      <EntityTypeMapping TypeName="dbProyectoINAModel.tbTipoClientes">
-        <MappingFragment StoreEntitySet="tbTipoClientes">
-          <ScalarProperty Name="id" ColumnName="id" />
-          <ScalarProperty Name="nombre" ColumnName="nombre" />
-          <ScalarProperty Name="estado" ColumnName="estado" />
-        </MappingFragment>
-      </EntityTypeMapping>
-    </EntitySetMapping>
-  </EntityContainerMapping>
+  <EntityContainerMapping StorageEntityContainer="dbProyectoINAModelStoreContainer" CdmEntityContainer="dbProyectoINAEntities" />
 </Mapping>

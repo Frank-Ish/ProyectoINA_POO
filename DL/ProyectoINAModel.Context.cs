@@ -27,6 +27,8 @@ namespace DL
     
         public virtual DbSet<tbClientes> tbClientes { get; set; }
         public virtual DbSet<tbPersona> tbPersona { get; set; }
+        public virtual DbSet<tbRoles> tbRoles { get; set; }
         public virtual DbSet<tbTipoClientes> tbTipoClientes { get; set; }
+        public virtual DbSet<tbUsuarios> tbUsuarios { get; set; }
     }
 }

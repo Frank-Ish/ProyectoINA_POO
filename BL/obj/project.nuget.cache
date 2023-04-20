@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "MqrzbrXI8ZF9DjxSoklY0UC2LEtU42MbvZfbrbiIswdIsAAUJtEP+cyaXK5Ux8DueuaqEWFPucCmg2YKleMXRg==",
+  "dgSpecHash": "jPE0RiraGMZPZrgHJjayDwlsYqEPrx9nROZg0GD4ug+R9i2GV8w25UXWv3QYOaZhhwQNO0MdaRFfd9A/4pSJFQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\harry\\OneDrive\\Documents\\ina\\POO\\ProyectoINA_POO\\BL\\BL.csproj",
+  "projectFilePath": "C:\\Users\\Ish\\Desktop\\INA\\repositorioINA2022\\POO\\PyectoINA_POO\\ProyectoINA_POO\\BL\\BL.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\harry\\.nuget\\packages\\entityframework\\6.2.0\\entityframework.6.2.0.nupkg.sha512"
+    "C:\\Users\\Ish\\.nuget\\packages\\entityframework\\6.2.0\\entityframework.6.2.0.nupkg.sha512"
   ],
   "logs": []
 }

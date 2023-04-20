@@ -5,11 +5,15 @@
     <!-- Diagram content (shape and connector positions) -->
     <edmx:Diagrams>
       <Diagram DiagramId="b28e43a1c9564f36ab4cd843014b4d1f" Name="Diagram1">
-        <EntityTypeShape EntityType="dbProyectoINAModel.tbClientes" Width="1.5" PointX="3" PointY="1" IsExpanded="true" />
-        <EntityTypeShape EntityType="dbProyectoINAModel.tbPersona" Width="1.5" PointX="5.25" PointY="1" IsExpanded="true" />
-        <EntityTypeShape EntityType="dbProyectoINAModel.tbTipoClientes" Width="1.5" PointX="0.75" PointY="1.25" IsExpanded="true" />
-        <AssociationConnector Association="dbProyectoINAModel.FK_tbClientes_tbTipoClientes" ManuallyRouted="false" />
-        <AssociationConnector Association="dbProyectoINAModel.FK_tbPersona_tbClientes" ManuallyRouted="false" />
+        <EntityTypeShape EntityType="dbProyectoINAModel.tbClientes" Width="1.5" PointX="3" PointY="3.5" />
+        <EntityTypeShape EntityType="dbProyectoINAModel.tbPersona" Width="1.5" PointX="0.75" PointY="3.375" />
+        <EntityTypeShape EntityType="dbProyectoINAModel.tbRoles" Width="1.5" PointX="3.75" PointY="0.75" />
+        <EntityTypeShape EntityType="dbProyectoINAModel.tbTipoClientes" Width="1.5" PointX="0.75" PointY="0.75" />
+        <EntityTypeShape EntityType="dbProyectoINAModel.tbUsuarios" Width="1.5" PointX="6" PointY="3.375" />
+        <AssociationConnector Association="dbProyectoINAModel.FK_tbClientes_tbPersona1" />
+        <AssociationConnector Association="dbProyectoINAModel.FK_tbClientes_tbTipoClientes" />
+        <AssociationConnector Association="dbProyectoINAModel.FK_PersonaUsuario" />
+        <AssociationConnector Association="dbProyectoINAModel.FK_RolUsuario" />
       </Diagram>
     </edmx:Diagrams>
   </edmx:Designer>
